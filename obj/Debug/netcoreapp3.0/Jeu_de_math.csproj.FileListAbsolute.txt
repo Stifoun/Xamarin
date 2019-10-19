@@ -1,0 +1,11 @@
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\bin\Debug\netcoreapp3.0\Jeu_de_math.exe
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\bin\Debug\netcoreapp3.0\Jeu_de_math.deps.json
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\bin\Debug\netcoreapp3.0\Jeu_de_math.runtimeconfig.json
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\bin\Debug\netcoreapp3.0\Jeu_de_math.runtimeconfig.dev.json
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\bin\Debug\netcoreapp3.0\Jeu_de_math.dll
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\bin\Debug\netcoreapp3.0\Jeu_de_math.pdb
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\obj\Debug\netcoreapp3.0\Jeu_de_math.csprojAssemblyReference.cache
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\obj\Debug\netcoreapp3.0\Jeu_de_math.AssemblyInfoInputs.cache
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\obj\Debug\netcoreapp3.0\Jeu_de_math.AssemblyInfo.cs
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\obj\Debug\netcoreapp3.0\Jeu_de_math.dll
+C:\Users\steph\Google Drive\Formation\Xamarin\Jeu_de_math\obj\Debug\netcoreapp3.0\Jeu_de_math.pdb

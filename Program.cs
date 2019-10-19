@@ -29,6 +29,7 @@ namespace Jeu_de_math
                 }
 
             }
+            //sinon
             else
             {
                 Console.WriteLine("ATTENTION: vous devez entrer une valeur numérique");
